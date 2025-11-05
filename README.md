@@ -1,6 +1,6 @@
 # Beijing PM2.5 Air Quality Forecasting
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/beijing-airquality-forecasting/blob/main/notebooks/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vz4eT3TREboW0NDMPENxCGTOOpX97TDN?usp=sharing)
 
 End-to-end time-series ML forecasting for **PM2.5** air pollution levels in Beijing (2010–2014).
 
